@@ -1,0 +1,19 @@
+name: MCMCtutorial
+dependencies:
+- python=3.7
+- jupyterlab
+- pip
+- pip:
+    - pymc3
+    - theano
+    - arviz
+    - pandas
+    - numpy
+    - random
+    - matplotlib
+    - IPython
+    - scipy
+    - seaborn
+    - sklearn
+    - statsmodels
+    - warnings
