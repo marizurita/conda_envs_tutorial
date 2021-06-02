@@ -2,18 +2,16 @@ name: MCMCtutorial
 dependencies:
 - python=3.7
 - jupyterlab
+- theano=1.0.4
 - pip
 - pip:
     - pymc3
-    - theano
     - arviz
     - pandas
     - numpy
-    - random
     - matplotlib
     - IPython
     - scipy
     - seaborn
     - sklearn
     - statsmodels
-    - warnings
